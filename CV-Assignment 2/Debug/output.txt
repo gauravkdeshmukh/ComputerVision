@@ -1,0 +1,59 @@
+
+************WELCOME***************
+Enter image file to read(pgm format) : Reading image "hill.pgm" ...
+
+*********Image Masking Options*************
+	1.Sobel's Mask
+	2.Robert's Mask
+	3.Laplacian
+	4.Prewitt
+	5.Gradient
+Enter your selection here:1
+File Writing complete
+opening outputfile......
+Do you want to continue?(Y/N)
+Enter your answer here:Y
+*********Image Masking Options*************
+	1.Sobel's Mask
+	2.Robert's Mask
+	3.Laplacian
+	4.Prewitt
+	5.Gradient
+Enter your selection here:2
+File Writing complete
+opening outputfile......
+Do you want to continue?(Y/N)
+Enter your answer here:Y
+*********Image Masking Options*************
+	1.Sobel's Mask
+	2.Robert's Mask
+	3.Laplacian
+	4.Prewitt
+	5.Gradient
+Enter your selection here:3
+File Writing complete
+opening outputfile......
+Do you want to continue?(Y/N)
+Enter your answer here:Y
+*********Image Masking Options*************
+	1.Sobel's Mask
+	2.Robert's Mask
+	3.Laplacian
+	4.Prewitt
+	5.Gradient
+Enter your selection here:4
+File Writing complete
+opening outputfile......
+Do you want to continue?(Y/N)
+Enter your answer here:Y
+*********Image Masking Options*************
+	1.Sobel's Mask
+	2.Robert's Mask
+	3.Laplacian
+	4.Prewitt
+	5.Gradient
+Enter your selection here:5
+File Writing complete
+opening outputfile......
+Do you want to continue?(Y/N)
+Enter your answer here:N

@@ -1,0 +1,10 @@
+
+************WELCOME***************
+Enter image file to read(pgm format) : Reading image "lena.pgm" ...
+
+	 ***** Image Rotation ****** 
+Enter the value of thoeta: The Scaled Image is of size 512 X 512
+File Writing complete
+opening outputfile......
+Do you want to continue?(Y/N)
+Enter your answer here:

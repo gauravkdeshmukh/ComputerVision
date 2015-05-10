@@ -1,0 +1,20 @@
+﻿Build started 11/5/2014 6:43:37 PM.
+     1>Project "C:\Users\Gaurav\documents\visual studio 2012\Projects\CV-Assignment3\CV-Assignment3\CV-Assignment3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\gaurav\documents\visual studio 2012\projects\cv-assignment3\cv-assignment3\source.cpp(272): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\gaurav\documents\visual studio 2012\projects\cv-assignment3\cv-assignment3\source.cpp(273): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\gaurav\documents\visual studio 2012\projects\cv-assignment3\cv-assignment3\source.cpp(275): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\gaurav\documents\visual studio 2012\projects\cv-assignment3\cv-assignment3\source.cpp(285): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\gaurav\documents\visual studio 2012\projects\cv-assignment3\cv-assignment3\source.cpp(286): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\gaurav\documents\visual studio 2012\projects\cv-assignment3\cv-assignment3\source.cpp(290): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\gaurav\documents\visual studio 2012\projects\cv-assignment3\cv-assignment3\source.cpp(299): warning C4101: 'ans' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gaurav\documents\visual studio 2012\Projects\CV-Assignment3\Debug\CV-Assignment3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Gaurav\documents\visual studio 2012\Projects\CV-Assignment3\Debug\CV-Assignment3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Gaurav\documents\visual studio 2012\Projects\CV-Assignment3\Debug\CV-Assignment3.lib" /MACHINE:X86 Debug\Source.obj
+         CV-Assignment3.vcxproj -> C:\Users\Gaurav\documents\visual studio 2012\Projects\CV-Assignment3\Debug\CV-Assignment3.exe
+     1>Done Building Project "C:\Users\Gaurav\documents\visual studio 2012\Projects\CV-Assignment3\CV-Assignment3\CV-Assignment3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.62

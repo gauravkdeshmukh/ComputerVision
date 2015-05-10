@@ -1,0 +1,15 @@
+
+************WELCOME***************
+Enter image file to read(pgm format) : Reading image "lena.pgm" ...
+
+*********Image Scaling Options*************
+	1.Nearest Neighbour Method
+	2.Bilinear Interpolation
+Enter your selection here:
+	 ***** Bilinear Interpolation ****** 
+Enter the X-scale factor between 0.5 and 2.0	 :
+Enter the Y-scale factor between 0.5 and 2.0	 :The Scaled Image is of size 640 X 640
+File Writing complete
+opening outputfile......
+Do you want to continue?(Y/N)
+Enter your answer here:
